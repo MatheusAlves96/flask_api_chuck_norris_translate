@@ -14,7 +14,7 @@ to get a random joke
 to get all categories
 
     GET /api/jokes/categories
-    Returns a random joke.
+    Returns all categories.
     
     {
         "sucess": true,
