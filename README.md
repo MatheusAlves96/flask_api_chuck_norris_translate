@@ -13,7 +13,7 @@ to get a random joke
 
 to get all categories
 
-    GET /api/jokes/categories
+    GET /api/jokes/category
     Returns all categories.
     
     {
