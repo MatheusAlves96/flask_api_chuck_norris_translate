@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_restful import Api
-from resource.api_voxus_recruiter import Random_joker, Random_joker_by_category, All_categories, Joker_limited_query_txt
+from resource.api_calls import Random_joker, Random_joker_by_category, All_categories, Joker_limited_query_txt
 
 app = Flask(__name__)
 
