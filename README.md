@@ -1,5 +1,6 @@
-# Voxus_api
-Selection process voxus documentation
+# Flask Api Chuck Norris translate
+
+a simple api built with flask with pt_br translate
 
 to get a random joke
 
